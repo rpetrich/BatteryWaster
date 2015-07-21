@@ -1,0 +1,12 @@
+Package: com.rpetrich.batterywaster
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Background apps forever to waste battery
+Name: BatteryWaster
+Website: http://rpetri.ch/cydia/wastemybattery/
+Depiction: http://rpetri.ch/cydia/wastemybattery/
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2)
+Author: Ryan Petrich <rpetrich+batterywaster@gmail.com>
+Icon: file:///Library/PreferenceLoader/Preferences/BatteryWaster/BatteryWaster@2x.png
